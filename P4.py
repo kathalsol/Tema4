@@ -1,3 +1,4 @@
+# Proyecto 4, realizado por: Katharina Alfaro Solís, Mónica Chaves Calvo, Susan Moraga López
 from PIL import Image
 import numpy as np
 
